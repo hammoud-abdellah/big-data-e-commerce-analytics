@@ -1,0 +1,6 @@
+2024/11/21 14:32:22 | Smartwatch2 | 4 | 500 | home
+2024/11/21 14:33:26 | Smartwatch3 | 2 | 220 | home
+2024/11/21 14:33:32 | Smartwatch6 | 1 | 170 | home
+2024/11/21 14:33:40 | Smartwatch5 | 1 | 195 | watches
+2024/11/21 14:33:44 | Smartwatch6 | 1 | 170 | watches
+2024/11/21 14:33:45 | Smartwatch1 | 1 | 300 | watches
